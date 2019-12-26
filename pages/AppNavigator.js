@@ -3,6 +3,7 @@ import { createAppContainer} from 'react-navigation';
 import Home from '../pages/home/Home';
 import Login from '../pages/login/Login';
 import Food from '../pages/food/Food';
+import Detail from '../pages/food/Detail';
 const AppNavigator = createStackNavigator({
 
     initialRouteName : Food,
@@ -30,6 +31,9 @@ const AppNavigator = createStackNavigator({
         screen: Food ,
        
     },
+    Detail : {
+        screen : Detail ,
+    }
      
     
  
