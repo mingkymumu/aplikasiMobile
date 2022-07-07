@@ -13,7 +13,7 @@
     "@eva-design/eva": "^1.2.0",
     "@react-native-community/viewpager": "^3.3.0",
     "@ui-kitten/eva-icons": "^4.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "prop-types": "^15.7.2",
     "react": "16.9.0",
     "react-multi-ref": "^1.0.0",
